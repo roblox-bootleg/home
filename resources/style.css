@@ -11,14 +11,14 @@ body
 	text-transform: none;
 	text-decoration: none;
 	height: 100%;
-	background: #f8fcff url(/resources/bg_gradient.jpg) repeat-x top;
+	background: #f8fcff url(./resources/bg_gradient.jpg) repeat-x top;
 	color:#06080A;
 }
 
 #MasterContainer 
 {
 	width: 100%;
-    background: url(/resources/bg_clouds.jpg) no-repeat center top;
+    background: no-repeat center top;
 }
 
 /*Panels that should have black text*/
